@@ -1,2 +1,5 @@
 # google-adk-tutorial
-Google ADKのtutorial
+
+Google ADK の tutorial(bizz アカウントを利用)
+
+https://google.github.io/adk-docs/tutorials/agent-team/
